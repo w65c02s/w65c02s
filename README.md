@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Divakar
 - 👀 I’m interested in Analogue & Digital electronics, Microcontrollers, C, Low level programming, FPGAs, Linux
-- 🌱 I’m currently learning to design electronic ciruits
+- 🌱 I’m currently learning to design electronic ciruits & embedded systems
 - 💞️ I’m looking to collaborate on bigger projects
 - 📫 reach me on w65c02s@gmail.com
 
